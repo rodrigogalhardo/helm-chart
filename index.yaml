@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  k8s-deployment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-08-13T16:57:22.809848-03:00"
+    description: A Helm chart for Kubernetes microservice deployment
+    digest: a6ea4581a981fdfdacc28d47ea7ff21ccfa2532a4db0d6b6ce8cbe59be7472c1
+    name: k8s-deployment
+    type: application
+    urls:
+    - https://rodrigogalhardo.github.io/helm-chart/k8s-deployment-0.1.1.tgz
+    version: 0.1.1
+generated: "2020-08-13T16:57:22.809072-03:00"
